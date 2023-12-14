@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box1 {
+    height: 100vh;
+    width: 350px;
+    background-color: rgb(51, 47, 47);
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.box1 img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 55px;
+    margin-bottom: 15px;
+
+
+
+}
+
+
+.container {
+    display: flex;
+}
+
+.bx1 {
+    height: 60vh;
+    width: 1000px;
+    background-color: rgb(51, 47, 47);
+    ;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.bx2 {
+    height: 38vh;
+    width: 1000px;
+    background-color: rgb(51, 47, 47);
+    ;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.box1 h2 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+}
+
+.box1 p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.box1 ul {
+    color: white;
+    list-style: none;
+}
+
+.box1 ul li {
+    text-decoration: none;
+    background-color: black;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 12%;
+
+}
+
+.box1 ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.box1 a :hover {
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+    border: 5px solid black;
+    border-radius: 12%;
+}
+
+.bx1 h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 13px;
+    padding: 18px;
+}
+
+.bx1 p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.bx1 img {
+    height: 300px;
+    width: 60%;
+    border-radius: 20%;
+    margin: 8px;
+    padding: 25px;
+}
+
+.para {
+    display: flex;
+}
+.main{
+    background-color: black;
+}
+.bx2 h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 13px;
+    padding: 18px;
+
+}
+table{
+border-radius: 6%;
+margin-left: 90px;
+width: 80%;
+height: 150px;
+color: white;
+
+}
+.row1{
+margin: 50px;
+
+
+}
